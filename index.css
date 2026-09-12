@@ -1,3 +1,37 @@
-.green {
-  color: green;
+body
+{
+  background-color: #3c45f2;
+}
+
+.container
+{
+  width: 80%;
+  margin: auto;
+}
+
+.site-info
+{
+  background: #0f9562;
+  text-align: center;
+  border-style: solid;
+  border-width: thick;
+}
+
+.site
+{
+  background: #09cc9b;
+  text-align: center;
+  border-style: solid;
+  border-width: medium;
+  margin: 1%;
+}
+
+a:link
+{
+  color: #1a7cdf;
+}
+
+a:visited
+{
+  color: #6558fc;
 }

@@ -1,15 +1,18 @@
+/* Class for body section */
 body
 {
   background-color: #3c45f2;
 }
 
+/* Class for page container */
 .container
 {
   width: 80%;
   margin: auto;
 }
 
-.site-info
+/* Class for page header */
+header
 {
   background: #0f9562;
   text-align: center;
@@ -17,6 +20,7 @@ body
   border-width: thick;
 }
 
+/* Class for each site section */
 .site
 {
   background: #09cc9b;
@@ -26,11 +30,13 @@ body
   margin: 1%;
 }
 
+/* Class for unvisitied links */
 a:link
 {
   color: #1a7cdf;
 }
 
+/* Class for visited links */
 a:visited
 {
   color: #6558fc;
